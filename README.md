@@ -24,9 +24,8 @@ https://github.com/Binaryify/NeteaseCloudMusicApi
 开发时对应版本：4.0.23
 若出现问题则选择最新版本
 
-### 预览地址
+### 启动预览地址
 
-[仿网易云音乐预览地址 ](http://localhost:8080/)
 ```
  App running at:
   - Local:   http://localhost:8080/
